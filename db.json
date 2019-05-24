@@ -1,0 +1,113 @@
+{
+	"usuarios": [{
+			"id": 1,
+			"usuario": "LuisLimones",
+			"calle": "Calle X",
+			"colonia": "Colonia Y",
+			"numero": "S/N",
+			"correo": "correo@servidor.com",
+			"telefono": "7-55-99-44",
+			"imagen": "https://picsum.photos/id/1025/4951/3301"
+		},
+		{
+			"id": 2,
+			"usuario": "MartinMine",
+			"calle": "Calle S",
+			"colonia": "Colonia H",
+			"numero": "254",
+			"correo": "mm@servidor.com",
+			"telefono": "7-05-77-44",
+			"imagen": "https://picsum.photos/id/104/3840/2160"
+		},
+		{
+			"id": 3,
+			"usuario": "MinercNJ",
+			"calle": "Calle Keroseno",
+			"colonia": "Colonia Alquitran",
+			"numero": "85",
+			"correo": "Mine@servidor.com",
+			"telefono": "4-55-55-02",
+			"imagen": "https://picsum.photos/id/1042/3456/5184"
+		},
+		{
+			"id": 4,
+			"usuario": "CJmers",
+			"calle": "Calle Jijitl",
+			"colonia": "Colonia Mamer",
+			"numero": "654",
+			"correo": "CJMM@servidor.com",
+			"telefono": "7-44-00-95",
+			"imagen": "https://picsum.photos/id/1062/5092/3395"
+		},
+		{
+			"id": 4,
+			"usuario": "MKdesd",
+			"calle": "Calle Sizlava",
+			"colonia": "Colonia Szirka",
+			"numero": "965",
+			"correo": "MK@servidor.com",
+			"telefono": "7-02-74-11",
+			"imagen": "https://picsum.photos/id/1025/4951/3301"
+		},
+		{
+			"id": 5,
+			"usuario": "GUYSOBMickey",
+			"calle": "Calle Marte",
+			"colonia": "Colonia Solar",
+			"numero": "1255",
+			"correo": "GUYSOB@servidor.com",
+			"telefono": "7-74-60-87",
+			"imagen": "https://picsum.photos/id/1069/3500/2333"
+		},
+		{
+			"id": 6,
+			"usuario": "mINERKS",
+			"calle": "Del Martir",
+			"colonia": "Las Aventuras",
+			"numero": "13",
+			"correo": "rks@servidor.com",
+			"telefono": "4-55-00-78",
+			"imagen": "https://picsum.photos/id/1071/3000/1996"
+		},
+		{
+			"id": 7,
+			"usuario": "DrDick",
+			"calle": "Calle Gloria",
+			"colonia": "Colonia Eterna",
+			"numero": "777",
+			"correo": "gloar@servidor.com",
+			"telefono": "7-56-25-66",
+			"imagen": "https://picsum.photos/id/1073/5472/3648"
+		},
+		{
+			"id": 8,
+			"usuario": "Sekiro",
+			"calle": "Ashina",
+			"colonia": "Japon",
+			"numero": "605",
+			"correo": "FromSoftware@servidor.com",
+			"telefono": "7-66-77-70",
+			"imagen": "https://picsum.photos/id/1082/5416/3611"
+		},
+		{
+			"id": 9,
+			"usuario": "DHJjsaja",
+			"calle": "Laguna",
+			"colonia": "Viñedo",
+			"numero": "4587",
+			"correo": "LDH@servidor.com",
+			"telefono": "4-55-09-87",
+			"imagen": "https://picsum.photos/id/130/3807/2538"
+		},
+		{
+			"id": 10,
+			"usuario": "RequiemAeterna",
+			"calle": "Gurren",
+			"colonia": "Lagann",
+			"numero": "666",
+			"correo": "trigger@servidor.com",
+			"telefono": "4-77-69-47",
+			"imagen": "https://www.teepublic.com/t-shirt/486364-gurren-lagann-team-dai-gurren-symbol"
+		}
+	]
+}
