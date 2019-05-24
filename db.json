@@ -40,16 +40,6 @@
 			"imagen": "https://picsum.photos/id/1062/5092/3395"
 		},
 		{
-			"id": 4,
-			"usuario": "MKdesd",
-			"calle": "Calle Sizlava",
-			"colonia": "Colonia Szirka",
-			"numero": "965",
-			"correo": "MK@servidor.com",
-			"telefono": "7-02-74-11",
-			"imagen": "https://picsum.photos/id/1025/4951/3301"
-		},
-		{
 			"id": 5,
 			"usuario": "GUYSOBMickey",
 			"calle": "Calle Marte",
